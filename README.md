@@ -1,9 +1,9 @@
 # Verilog_Final_public
-Contributors:
-lsy1205
-jerry34567
+* Contributors:
+    * lsy1205
+    * jerry34567
 
-Final project of computer architecture
-a project using Verilog to simulate a simple cpu
+* Final project of computer architecture
+* A project using Verilog to simulate a simple cpu
 
-This is a cloned repository
+* This is a cloned repository
