@@ -1,0 +1,7 @@
+put Chip.v to verilog folder
+put everything into the folder
+
+For Jerry Chen 
+    - please check your files are not still alive
+    - finish bonus assembly code and dump it into Assembly/bonus_text.text
+    - What to do next
